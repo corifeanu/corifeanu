@@ -6,4 +6,4 @@ Hello hello to you!
 💬 Ask me about databases, cleaning, transforming 
 📫 How to reach me: corifeanu@outlook.com
 😄 Pronouns: he
-⚡ Fun fact: They say my brain is plastic and expandable if I kearn too much. That I was afraid, all good as stay there an not expand too much. 
+⚡ Fun fact: They say my brain is plastic and expandable if I learn too much and too quick. That I was afraid, all good as stay there an not expand too much. 
