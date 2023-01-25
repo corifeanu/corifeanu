@@ -1,5 +1,5 @@
 Hello hello to you!
-🔭 I’m currently working on OLALA.COM.AU as Cloud engineer
+🔭 I’m currently working @ OLALA.COM.AU as Cloud engineer, mostly on a Web application named OLALA CMS (SAAS in Amazon) 
 🌱 I’m currently learning Data Science
 👯 I’m looking to collaborate on ... well not too much about this at this stage 
 🤔 I’m looking for help with using DevOps
