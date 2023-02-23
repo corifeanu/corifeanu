@@ -1,9 +1,8 @@
-Hello hello to you!
-🔭 I’m currently working @ OLALA.COM.AU as Cloud engineer. Develop & maintain Olala CMS (web application - SAAS in Amazon) and do data analysis (sales,inventory & marketing)
-🌱 I’m currently learning Data Science
-👯 I’m looking to collaborate on ... well not too much about this at this stage 
-🤔 I’m looking for help with using DevOps
-💬 Ask me about databases, cleaning, transforming 
-📫 How to reach me: corifeanu@outlook.com
+Data Scientist/Cloud technology: Azure(mostly) and AWS.
+🔭Currently working @ OLALA.COM.AU as Cloud engineer. Develop & maintain a SAAS application running in Amazon and do data analysis (sales, inventory & marketing) for company and its clients (Azure).
+🌱 I’m currently improve myself (Power BI, AI engineer and DepOps) 
+👯 have bunch of project to make avilable public..it's going to happen.  
+💬 Chalange me with questions about databases, ML, CCN, NLP. 
+📫 Reach me anytime @ corifeanu@outlook.com
 😄 Pronouns: he
-⚡ Fun fact: They say my brain is plastic and expandable if I learn too much and too quick. That I was afraid, all good as stay there and not expand too much. 
+⚡ Plant lover (maintain a website: plantsrescue.com), love latione dance - beginer - intermediate and pasionate about psicology. 
