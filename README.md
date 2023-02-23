@@ -5,4 +5,4 @@ Data Scientist/Cloud technology: Azure(mostly) and AWS.
 💬 Chalange me with questions about databases, ML, CNN, NLP. 
 📫 Reach me anytime @ corifeanu@outlook.com
 😄 Pronouns: he
-⚡ Plant lover (maintain a website: plantsrescue.com), love latione dance - beginer - intermediate and pasionate about psicology. 
+⚡ Plants lover (maintain a website: plantsrescue.com), love latino dance - beginer/intermediate and pasionate about psicology. 
