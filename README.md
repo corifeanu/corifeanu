@@ -1,5 +1,5 @@
-Data Scientist/AI engineer and cloud technology - Azure(mostly) and AWS.
-🔭Currently working @ OLALA.COM.AU as Cloud engineer. Develop & maintain a SAAS application running in Amazon, Data analysis/modeling/predictions (sales, inventory & marketing) and implement cognitive services in web apps - Azure.
+Azure AI engineer and Data Scientist engineer (Microsoft associate). 
+🔭Currently working @ OLALA.COM.AU as Cloud engineer. Implement cognitive services for company and company clients,  develop & maintain a SAAS application running in AWS, do data analysis/modeling/predictions (sales, inventory & marketing).
 🌱 Always learning, just now DevOps, CI/CD, pipes 
 👯 Have bunch of projects to make public avilable..it's going to happen (no time, you know the story).  
 💬 Chalange me with questions about databases, ML, CNN, NLP. 
